@@ -1,203 +1,173 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="t-sports-l-sports-1" tvg-logo="http://10.100.100.10/channel-logos/t-sports-l-sports-1.png",T Sports L Sports 1
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/101/sf-1-t-sports-l-sports-1/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/101/sf-1-t-sports-l-sports-1/index.m3u8
 #EXTINF:-1 tvg-id="sports-2" tvg-logo="http://10.100.100.10/channel-logos/sports-2.jpg",Sports 2
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/102/sf-2-sports-2/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/102/sf-2-sports-2/index.m3u8
 #EXTINF:-1 tvg-id="sports-3" tvg-logo="http://10.100.100.10/channel-logos/sports-3.jpg",Sports 3
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/103/sf-3-sports-3/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/103/sf-3-sports-3/index.m3u8
 #EXTINF:-1 tvg-id="sports-4" tvg-logo="http://10.100.100.10/channel-logos/sports-4.jpg",Sports 4
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/104/sf-4-sports-4/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/104/sf-4-sports-4/index.m3u8
 #EXTINF:-1 tvg-id="btv-news" tvg-logo="http://10.100.100.10/channel-logos/btv-news.jpg",Btv News
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/107/sf-7-btv-news/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/107/sf-7-btv-news/index.m3u8
 #EXTINF:-1 tvg-id="atn-bangla",Atn Bangla
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/108/sf-122-atn-bangla/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/108/sf-122-atn-bangla/index.m3u8
 #EXTINF:-1 tvg-id="channel-i-hd" tvg-logo="http://10.100.100.10/channel-logos/channel-i-hd.png",Channel I Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/109/sf-8-channel-i-hd/index.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="http://10.100.100.10/channel-logos/ntv.png",Ntv
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/110/sf-9-ntv/index.m3u8
-#EXTINF:-1 tvg-id="bangla-vision-hd" tvg-logo="http://10.100.100.10/channel-logos/bangla-vision-hd.png",Bangla Vision Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/111/sf-10-bangla-vision-hd/index.m3u8
-#EXTINF:-1 tvg-id="rtv-hd" tvg-logo="http://10.100.100.10/channel-logos/rtv-hd.png",Rtv Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/112/sf-27-rtv-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/109/sf-8-channel-i-hd/index.m3u8
 #EXTINF:-1 tvg-id="atn-news" tvg-logo="http://10.100.100.10/channel-logos/atn-news.png",Atn News
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/113/sf-16-atn-news/index.m3u8
-#EXTINF:-1 tvg-id="dbc-news-hd" tvg-logo="http://10.100.100.10/channel-logos/dbc-news-hd.png",Dbc News Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/114/sf-12-dbc-news-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/113/sf-16-atn-news/index.m3u8
 #EXTINF:-1 tvg-id="somoy-tv-hd" tvg-logo="http://10.100.100.10/channel-logos/somoy-tv-hd.png",Somoy Tv Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/117/sf-19-somoy-tv-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/117/sf-19-somoy-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="independent-tv" tvg-logo="http://10.100.100.10/channel-logos/independent-tv.jpg",Independent Tv
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/118/sf-22-independent-tv/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/118/sf-22-independent-tv/index.m3u8
 #EXTINF:-1 tvg-id="jamuna-television" tvg-logo="http://10.100.100.10/channel-logos/jamuna-television.jpg",Jamuna Television
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/119/sf-17-jamuna-television/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/119/sf-17-jamuna-television/index.m3u8
 #EXTINF:-1 tvg-id="gazi-tv-hd" tvg-logo="http://10.100.100.10/channel-logos/gazi-tv-hd.png",Gazi Tv Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/120/sf-14-gazi-tv-hd/index.m3u8
-#EXTINF:-1 tvg-id="ekattor-hd" tvg-logo="http://10.100.100.10/channel-logos/ekattor-hd.jpg",Ekattor Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/121/sf-13-ekattor-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/120/sf-14-gazi-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="channel-24-hd" tvg-logo="http://10.100.100.10/channel-logos/channel-24-hd.png",Channel 24 Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/122/sf-20-channel-24-hd/index.m3u8
-#EXTINF:-1 tvg-id="channel-9-hd" tvg-logo="http://10.100.100.10/channel-logos/channel-9-hd.png",Channel 9 Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/123/sf-21-channel-9-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/122/sf-20-channel-24-hd/index.m3u8
 #EXTINF:-1 tvg-id="my-tv" tvg-logo="http://10.100.100.10/channel-logos/my-tv.png",My Tv
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/124/sf-28-my-tv/index.m3u8
-#EXTINF:-1 tvg-id="news-24-hd" tvg-logo="http://10.100.100.10/channel-logos/news-24-hd.png",News 24 Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/125/sf-11-news-24-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/124/sf-28-my-tv/index.m3u8
 #EXTINF:-1 tvg-id="desh-tv" tvg-logo="http://10.100.100.10/channel-logos/desh-tv.png",Desh Tv
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/126/sf-25-desh-tv/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/126/sf-25-desh-tv/index.m3u8
 #EXTINF:-1 tvg-id="nagorik-tv" tvg-logo="http://10.100.100.10/channel-logos/nagorik-tv.jpg",Nagorik Tv
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/127/sf-128-nagorik-tv/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/127/sf-128-nagorik-tv/index.m3u8
 #EXTINF:-1 tvg-id="asian-tv-hd" tvg-logo="http://10.100.100.10/channel-logos/asian-tv-hd.png",Asian Tv Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/128/sf-18-asian-tv-hd/index.m3u8
-#EXTINF:-1 tvg-id="ekhon-tv-hd" tvg-logo="http://10.100.100.10/channel-logos/ekhon-tv-hd.png",Ekhon Tv Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/131/sf-24-ekhon-tv-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/128/sf-18-asian-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="xplor-hd" tvg-logo="http://10.100.100.10/channel-logos/xplor-hd.png",Xplor Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/200/sf-42-xplor-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/200/sf-42-xplor-hd/index.m3u8
 #EXTINF:-1 tvg-id="axn" tvg-logo="http://10.100.100.10/channel-logos/axn.png",Axn
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/201/sf-64-axn/index.m3u8
-#EXTINF:-1 tvg-id="flix-hd" tvg-logo="http://10.100.100.10/channel-logos/flix-hd.png",Flix Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/202/sf-63-flix-hd/index.m3u8
-#EXTINF:-1 tvg-id="dw-news" tvg-logo="http://10.100.100.10/channel-logos/dw-news.jpg",Dw News
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/203/sf-65-dw-news/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/201/sf-64-axn/index.m3u8
 #EXTINF:-1 tvg-id="lotus-tv" tvg-logo="http://10.100.100.10/channel-logos/lotus-tv.jpg",Lotus Tv
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/204/sf-66-lotus-tv/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/204/sf-66-lotus-tv/index.m3u8
 #EXTINF:-1 tvg-id="mn-hd" tvg-logo="http://10.100.100.10/channel-logos/mn-hd.jpg",Mn Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/205/sf-67-mn-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/205/sf-67-mn-hd/index.m3u8
 #EXTINF:-1 tvg-id="mnx" tvg-logo="http://10.100.100.10/channel-logos/mnx.png",Mnx
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/206/sf-68-mnx/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/206/sf-68-mnx/index.m3u8
 #EXTINF:-1 tvg-id="movies-now" tvg-logo="http://10.100.100.10/channel-logos/movies-now.png",Movies Now
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/207/sf-69-movies-now/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/207/sf-69-movies-now/index.m3u8
 #EXTINF:-1 tvg-id="romedy-now" tvg-logo="http://10.100.100.10/channel-logos/romedy-now.jpg",Romedy Now
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/208/sf-70-romedy-now/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/208/sf-70-romedy-now/index.m3u8
 #EXTINF:-1 tvg-id="star-movies-hd" tvg-logo="http://10.100.100.10/channel-logos/star-movies-hd.png",Star Movies Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/209/sf-71-star-movies-hd/index.m3u8
-#EXTINF:-1 tvg-id="zee-cafe-hd" tvg-logo="http://10.100.100.10/channel-logos/zee-cafe-hd.jpg",Zee Cafe Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/210/sf-72-zee-cafe-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/209/sf-71-star-movies-hd/index.m3u8
 #EXTINF:-1 tvg-id="star-movies-select-hd" tvg-logo="http://10.100.100.10/channel-logos/star-movies-select-hd.png",Star Movies Select Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/211/sf-73-star-movies-select-hd/index.m3u8
-#EXTINF:-1 tvg-id="star-sports-1" tvg-logo="http://10.100.100.10/channel-logos/star-sports-1.png",Star Sports 1
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/181/sf-74-star-sports-1/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/211/sf-73-star-movies-select-hd/index.m3u8
 #EXTINF:-1 tvg-id="star-sports-2" tvg-logo="http://10.100.100.10/channel-logos/star-sports-2.png",Star Sports 2
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/182/sf-75-star-sports-2/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/182/sf-75-star-sports-2/index.m3u8
+#EXTINF:-1 tvg-id="sony-sports-ten-1" tvg-logo="http://10.100.100.10/channel-logos/sony-sports-ten-1.png",Sony Sports Ten 1
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/184/sf-77-sony-sports-ten-1/index.m3u8
 #EXTINF:-1 tvg-id="sony-sports-ten-2" tvg-logo="http://10.100.100.10/channel-logos/sony-sports-ten-2.png",Sony Sports Ten 2
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/185/sf-78-sony-sports-ten-2/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/185/sf-78-sony-sports-ten-2/index.m3u8
 #EXTINF:-1 tvg-id="sony-sports-ten-3" tvg-logo="http://10.100.100.10/channel-logos/sony-sports-ten-3.jpg",Sony Sports Ten 3
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/186/sf-79-sony-sports-ten-3/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/186/sf-79-sony-sports-ten-3/index.m3u8
 #EXTINF:-1 tvg-id="sony-sports-ten-4" tvg-logo="http://10.100.100.10/channel-logos/sony-sports-ten-4.png",Sony Sports Ten 4
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/187/sf-80-sony-sports-ten-4/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/187/sf-80-sony-sports-ten-4/index.m3u8
 #EXTINF:-1 tvg-id="sony-sports-ten-5" tvg-logo="http://10.100.100.10/channel-logos/sony-sports-ten-5.png",Sony Sports Ten 5
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/188/sf-81-sony-sports-ten-5/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/188/sf-81-sony-sports-ten-5/index.m3u8
 #EXTINF:-1 tvg-id="a-sports-hd" tvg-logo="http://10.100.100.10/channel-logos/a-sports-hd.png",A Sports Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/190/sf-83-a-sports-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/190/sf-83-a-sports-hd/index.m3u8
+#EXTINF:-1 tvg-id="t-sports-hd" tvg-logo="http://10.100.100.10/channel-logos/t-sports-hd.png",T Sports Hd
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/191/sf-84-t-sports-hd/index.m3u8
 #EXTINF:-1 tvg-id="ptv" tvg-logo="http://10.100.100.10/channel-logos/ptv.png",Ptv
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/192/sf-85-ptv/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/192/sf-85-ptv/index.m3u8
 #EXTINF:-1 tvg-id="euro-sport-hd" tvg-logo="http://10.100.100.10/channel-logos/euro-sport-hd.png",Euro Sport Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/193/sf-87-euro-sport-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/193/sf-87-euro-sport-hd/index.m3u8
 #EXTINF:-1 tvg-id="star-sports-select-1-hd" tvg-logo="http://10.100.100.10/channel-logos/star-sports-select-1-hd.png",Star Sports Select 1 Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/196/sf-130-star-sports-select-1-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/196/sf-130-star-sports-select-1-hd/index.m3u8
 #EXTINF:-1 tvg-id="star-sports-select-2-hd" tvg-logo="http://10.100.100.10/channel-logos/star-sports-select-2-hd.png",Star Sports Select 2 Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/197/sf-131-star-sports-select-2-hd/index.m3u8
-#EXTINF:-1 tvg-id="unite8-sports-1" tvg-logo="http://10.100.100.10/channel-logos/unite8-sports-1.jpg",Unite8 Sports 1
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/198/sf-134-unite8-sports-1/index.m3u8
-#EXTINF:-1 tvg-id="unite8-sports-2-hd" tvg-logo="http://10.100.100.10/channel-logos/unite8-sports-2-hd.png",Unite8 Sports 2 Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/199/sf-135-unite8-sports-2-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/197/sf-131-star-sports-select-2-hd/index.m3u8
 #EXTINF:-1 tvg-id="duronto-tv-hd" tvg-logo="http://10.100.100.10/channel-logos/duronto-tv-hd.png",Duronto Tv Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/134/sf-95-duronto-tv-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/134/sf-95-duronto-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://10.100.100.10/channel-logos/cartoon-network.png",Cartoon Network
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/135/sf-89-cartoon-network/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/135/sf-89-cartoon-network/index.m3u8
 #EXTINF:-1 tvg-id="nick" tvg-logo="http://10.100.100.10/channel-logos/nick.png",Nick
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/136/sf-90-nick/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/136/sf-90-nick/index.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="http://10.100.100.10/channel-logos/nick-jr.png",Nick Jr
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/137/sf-91-nick-jr/index.m3u8
-#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="http://10.100.100.10/channel-logos/discovery-kids.png",Discovery Kids
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/138/sf-92-discovery-kids/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/137/sf-91-nick-jr/index.m3u8
 #EXTINF:-1 tvg-id="etv-bal-bharat" tvg-logo="http://10.100.100.10/channel-logos/etv-bal-bharat.webp",Etv Bal Bharat
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/141/sf-96-etv-bal-bharat/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/141/sf-96-etv-bal-bharat/index.m3u8
 #EXTINF:-1 tvg-id="pogo" tvg-logo="http://10.100.100.10/channel-logos/pogo.png",Pogo
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/143/sf-98-pogo/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/143/sf-98-pogo/index.m3u8
 #EXTINF:-1 tvg-id="sonic" tvg-logo="http://10.100.100.10/channel-logos/sonic.png",Sonic
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/144/sf-99-sonic/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/144/sf-99-sonic/index.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="http://10.100.100.10/channel-logos/sony-yay.png",Sony Yay
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/145/sf-100-sony-yay/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/145/sf-100-sony-yay/index.m3u8
 #EXTINF:-1 tvg-id="super-hungama" tvg-logo="http://10.100.100.10/channel-logos/super-hungama.png",Super Hungama
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/146/sf-101-super-hungama/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/146/sf-101-super-hungama/index.m3u8
+#EXTINF:-1 tvg-id="baallee" tvg-logo="http://10.100.100.10/channel-logos/baallee.jpg",Baallee
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/218/sf-106-baallee/index.m3u8
 #EXTINF:-1 tvg-id="zoom-music" tvg-logo="http://10.100.100.10/channel-logos/zoom-music.png",Zoom Music
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/221/sf-109-zoom-music/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/221/sf-109-zoom-music/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-hd" tvg-logo="http://10.100.100.10/channel-logos/animal-planet-hd.png",Animal Planet Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/222/sf-111-animal-planet-hd/index.m3u8
-#EXTINF:-1 tvg-id="discovery-hd" tvg-logo="http://10.100.100.10/channel-logos/discovery-hd.png",Discovery Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/223/sf-112-discovery-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/222/sf-111-animal-planet-hd/index.m3u8
 #EXTINF:-1 tvg-id="bbc-earth-hd" tvg-logo="http://10.100.100.10/channel-logos/bbc-earth-hd.png",Bbc Earth Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/224/sf-113-bbc-earth-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/224/sf-113-bbc-earth-hd/index.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://10.100.100.10/channel-logos/cnn.png",Cnn
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/225/sf-114-cnn/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/225/sf-114-cnn/index.m3u8
 #EXTINF:-1 tvg-id="history-tv-18-hd" tvg-logo="http://10.100.100.10/channel-logos/history-tv-18-hd.jpg",History Tv 18 Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/226/sf-115-history-tv-18-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/226/sf-115-history-tv-18-hd/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo" tvg-logo="http://10.100.100.10/channel-logos/nat-geo.png",Nat Geo
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/227/sf-116-nat-geo/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/227/sf-116-nat-geo/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://10.100.100.10/channel-logos/nat-geo-wild.png",Nat Geo Wild
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/228/sf-117-nat-geo-wild/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/228/sf-117-nat-geo-wild/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="http://10.100.100.10/channel-logos/national-geographic.png",National Geographic
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/229/sf-118-national-geographic/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/229/sf-118-national-geographic/index.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth" tvg-logo="http://10.100.100.10/channel-logos/sony-bbc-earth.png",Sony Bbc Earth
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/230/sf-119-sony-bbc-earth/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/230/sf-119-sony-bbc-earth/index.m3u8
+#EXTINF:-1 tvg-id="tlc-hd" tvg-logo="http://10.100.100.10/channel-logos/tlc-hd.png",Tlc Hd
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/231/sf-120-tlc-hd/index.m3u8
 #EXTINF:-1 tvg-id="travel-xp" tvg-logo="http://10.100.100.10/channel-logos/travel-xp.png",Travel Xp
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/232/sf-121-travel-xp/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/232/sf-121-travel-xp/index.m3u8
 #EXTINF:-1 tvg-id="peace-tv" tvg-logo="http://10.100.100.10/channel-logos/peace-tv.webp",Peace Tv
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/233/sf-32-peace-tv/index.m3u8
-#EXTINF:-1 tvg-id="makkah-live" tvg-logo="http://10.100.100.10/channel-logos/makkah-live.png",Makkah Live
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/234/sf-110-makkah-live/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/233/sf-32-peace-tv/index.m3u8
 #EXTINF:-1 tvg-id="madani-tv-bangla" tvg-logo="http://10.100.100.10/channel-logos/madani-tv-bangla.jpg",Madani Tv Bangla
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/235/sf-127-madani-tv-bangla/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/235/sf-127-madani-tv-bangla/index.m3u8
 #EXTINF:-1 tvg-id="zee-bangla-hd" tvg-logo="http://10.100.100.10/channel-logos/zee-bangla-hd.png",Zee Bangla Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/147/sf-34-zee-bangla-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/147/sf-34-zee-bangla-hd/index.m3u8
 #EXTINF:-1 tvg-id="star-jalsha-hd" tvg-logo="http://10.100.100.10/channel-logos/star-jalsha-hd.png",Star Jalsha Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/148/sf-33-star-jalsha-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/148/sf-33-star-jalsha-hd/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv-hd" tvg-logo="http://10.100.100.10/channel-logos/zee-tv-hd.jpg",Zee Tv Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/149/sf-61-zee-tv-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/149/sf-61-zee-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="star-plus-hd" tvg-logo="http://10.100.100.10/channel-logos/star-plus-hd.png",Star Plus Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/150/sf-57-star-plus-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/150/sf-57-star-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="sony-set-hd" tvg-logo="http://10.100.100.10/channel-logos/sony-set-hd.png",Sony Set Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/151/sf-53-sony-set-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/151/sf-53-sony-set-hd/index.m3u8
 #EXTINF:-1 tvg-id="colors-hd" tvg-logo="http://10.100.100.10/channel-logos/colors-hd.jpg",Colors Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/152/sf-124-colors-hd/index.m3u8
-#EXTINF:-1 tvg-id="ary-digital" tvg-logo="http://10.100.100.10/channel-logos/ary-digital.png",Ary Digital
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/155/sf-45-ary-digital/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/152/sf-124-colors-hd/index.m3u8
+#EXTINF:-1 tvg-id="hum-masala" tvg-logo="http://10.100.100.10/channel-logos/hum-masala.png",Hum Masala
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/154/sf-47-hum-masala/index.m3u8
 #EXTINF:-1 tvg-id="colors-bangla-hd" tvg-logo="http://10.100.100.10/channel-logos/colors-bangla-hd.jpg",Colors Bangla Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/156/sf-133-colors-bangla-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/156/sf-133-colors-bangla-hd/index.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="http://10.100.100.10/channel-logos/sony-aath.png",Sony Aath
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/157/sf-35-sony-aath/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/157/sf-35-sony-aath/index.m3u8
 #EXTINF:-1 tvg-id="sun-bangla-hd" tvg-logo="http://10.100.100.10/channel-logos/sun-bangla-hd.png",Sun Bangla Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/158/sf-41-sun-bangla-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/158/sf-41-sun-bangla-hd/index.m3u8
 #EXTINF:-1 tvg-id="enter-10-bangla" tvg-logo="http://10.100.100.10/channel-logos/enter-10-bangla.png",Enter 10 Bangla
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/159/sf-36-enter-10-bangla/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/159/sf-36-enter-10-bangla/index.m3u8
 #EXTINF:-1 tvg-id="colors-bangla-cinema" tvg-logo="http://10.100.100.10/channel-logos/colors-bangla-cinema.png",Colors Bangla Cinema
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/160/sf-38-colors-bangla-cinema/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/160/sf-38-colors-bangla-cinema/index.m3u8
 #EXTINF:-1 tvg-id="jalsha-movies-hd" tvg-logo="http://10.100.100.10/channel-logos/jalsha-movies-hd.jpg",Jalsha Movies Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/161/sf-37-jalsha-movies-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/161/sf-37-jalsha-movies-hd/index.m3u8
 #EXTINF:-1 tvg-id="zee-bangla-cinema-hd" tvg-logo="http://10.100.100.10/channel-logos/zee-bangla-cinema-hd.png",Zee Bangla Cinema Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/162/sf-40-zee-bangla-cinema-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/162/sf-40-zee-bangla-cinema-hd/index.m3u8
 #EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="http://10.100.100.10/channel-logos/star-bharat-hd.png",Star Bharat Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/163/sf-39-star-bharat-hd/index.m3u8
-#EXTINF:-1 tvg-id="sony-sab" tvg-logo="http://10.100.100.10/channel-logos/sony-sab.png",Sony Sab
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/164/sf-52-sony-sab/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/163/sf-39-star-bharat-hd/index.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="http://10.100.100.10/channel-logos/sony-max-hd.png",Sony Max Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/165/sf-51-sony-max-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/165/sf-51-sony-max-hd/index.m3u8
 #EXTINF:-1 tvg-id="zee-cinema-hd" tvg-logo="http://10.100.100.10/channel-logos/zee-cinema-hd.png",Zee Cinema Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/166/sf-60-zee-cinema-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/166/sf-60-zee-cinema-hd/index.m3u8
 #EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="http://10.100.100.10/channel-logos/star-gold-hd.png",Star Gold Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/167/sf-54-star-gold-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/167/sf-54-star-gold-hd/index.m3u8
 #EXTINF:-1 tvg-id="colors-cineplex-hd" tvg-logo="http://10.100.100.10/channel-logos/colors-cineplex-hd.png",Colors Cineplex Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/170/sf-46-colors-cineplex-hd/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/170/sf-46-colors-cineplex-hd/index.m3u8
 #EXTINF:-1 tvg-id="pictures" tvg-logo="http://10.100.100.10/channel-logos/pictures.png",Pictures
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/171/sf-43-pictures/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/171/sf-43-pictures/index.m3u8
 #EXTINF:-1 tvg-id="prive-hd" tvg-logo="http://10.100.100.10/channel-logos/prive-hd.png",Prive Hd
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/172/sf-62-prive-hd/index.m3u8
-#EXTINF:-1 tvg-id="zee-bollywood" tvg-logo="http://10.100.100.10/channel-logos/zee-bollywood.png",Zee Bollywood
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/173/sf-59-zee-bollywood/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/172/sf-62-prive-hd/index.m3u8
 #EXTINF:-1 tvg-id="hungama" tvg-logo="http://10.100.100.10/channel-logos/hungama.png",Hungama
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/177/sf-49-hungama/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/177/sf-49-hungama/index.m3u8
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="http://10.100.100.10/channel-logos/sony-max.png",Sony Max
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/178/sf-50-sony-max/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/178/sf-50-sony-max/index.m3u8
 #EXTINF:-1 tvg-id="geo-news" tvg-logo="http://10.100.100.10/channel-logos/geo-news.png",Geo News
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/179/sf-86-geo-news/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/179/sf-86-geo-news/index.m3u8
 #EXTINF:-1 tvg-id="zing" tvg-logo="http://10.100.100.10/channel-logos/zing.png",Zing
-http://10.100.100.10/_sf-node-media/Fnd4YNYC/dev-390cfc1bc9702262d861710d3cf3e3a6/180/sf-132-zing/index.m3u8
+http://10.100.100.10/_sf-node-media/UCj4kzni/dev-390cfc1bc9702262d861710d3cf3e3a6/180/sf-132-zing/index.m3u8
